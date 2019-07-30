@@ -9,6 +9,6 @@ When disasters occur, people often can not accurately judge the disaster situati
 ![Image](https://github.com/linqd1/Disaster-relief/blob/master/Image/5.png)
 ![Image](https://github.com/linqd1/Disaster-relief/blob/master/Image/6.png)
 ![Image](https://github.com/linqd1/Disaster-relief/blob/master/Image/7.png)
-
+![Image](https://github.com/linqd1/Disaster-relief/blob/master/Image/8.png)
 
 
